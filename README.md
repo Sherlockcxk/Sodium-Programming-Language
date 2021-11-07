@@ -28,6 +28,8 @@ There are several advantages of an instruction-oriented programming language. Fi
 
 # Support 
 https://discord.gg/CGz259ZR
-or friend on discord 
-Valcan#1407
+or friend on discord Valcan#1407
+
+![explosion-14066](https://user-images.githubusercontent.com/86417658/140628945-64e69ca5-c342-47c8-824f-4c2efafacd7a.png)
+
 

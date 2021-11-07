@@ -14,11 +14,12 @@ Every keyword is an instruction
 
 Defining a function is tantamount to appending a new keyword
 
-```define myPrint msg`
-
-print “My print: ” add msg`
-
-myPrint “Hello World!”```
+```
+define myPrint msg
+    print "My print: " + msg
+end
+myPrint "Hello World!"
+```
 
 Output:
 

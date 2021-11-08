@@ -1,4 +1,5 @@
-![Sodium Icon](https://media.discordapp.net/attachments/896783689176977508/906387936319275018/explosion-14066.png)
+<img src="https://media.discordapp.net/attachments/896783689176977508/906387936319275018/explosion-14066.png">
+
 # Sodium-Programming-Language
 Sodium is a general purpose programming language which is instruction-oriented (a new programming concept that we are developing and devising)
 
